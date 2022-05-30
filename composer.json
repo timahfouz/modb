@@ -3,7 +3,7 @@
     "description": "this package is used for creating models, seeders factories, ...",
     "type": "library",
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "illuminate/support": ">=8.3"
     },
     "license": "MIT",
@@ -11,7 +11,7 @@
         "name": "TarekMahfouz",
         "email": "tarek.mahfouz2011@gmail.com"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
