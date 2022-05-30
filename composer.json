@@ -2,7 +2,10 @@
     "name": "segmatech/laravel-modb",
     "description": "this package is used for creating models, seeders factories, ...",
     "type": "library",
-    "require": {},
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": ">=8.3"
+    },
     "license": "MIT",
     "authors": [{
         "name": "TarekMahfouz",
